@@ -1,0 +1,27 @@
+[
+    {
+        "id" : "uuidv4()",
+        "title": "Call Family",
+        "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores, necessitat"
+    },
+    {
+        "id" : "uuidv4()",
+        "title": "Meeting with Boss",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem."
+    },
+    {
+        "id" : "uuidv4()",
+        "title": "Grocery Shopping",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem."
+    },
+    {
+        "id" : "uuidv4()",
+        "title": "Workout Session",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem."
+    },
+    {
+        "id" : "uuidv4()",
+        "title": "Read a Book",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem."
+    }
+]
