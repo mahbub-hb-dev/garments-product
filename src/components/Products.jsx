@@ -10,14 +10,12 @@ const Products = ({data}) => {
 
             <img src={product.image} alt={product.title} className="w-full h-64" />
 
-            <div className="p-3 h-[285px] flex flex-col">
+            <div className="p-3">
                 <h2 className="text-white font-bold text-xl">{product.title}</h2>
                 <p className="text-orange-400"> Price : {product.price} </p>
                 <p className="text-orange-400"> Rating : {product.rating.rate} </p>
                 <p className="text-white font-medium"> {product.description} </p>
-                <div className="flex items-end flex-1 my-2">
-                    <button className="bg-yellow-50 font-medium text-sm transition px-2 py-0.5 rounded-xl text-orange-500 hover:bg-orange-500 hover:text-white"> Add to Cart </button>
-                </div>
+                <button className="bg-yellow-50 mt-3 mb-1.5 font-medium text-sm transition px-2 py-0.5 rounded-xl text-orange-500 hover:bg-orange-500 hover:text-white"> Add to Cart </button>
             </div>
 
         </div>
